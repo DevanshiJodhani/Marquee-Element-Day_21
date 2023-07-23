@@ -1,5 +1,5 @@
 # Marquee Element
-I have created a simple Marquee Element in Day 22 challenge.
+I have created a simple Marquee Element in Day 21 challenge.
 
 ## 🎨 DESIGN
 ![design](design.gif)
